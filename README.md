@@ -6,3 +6,6 @@ This kata setup a complete CRUD application with forms.
 * Express
 * body-parser
 * Nodemon
+
+
+## Git config
